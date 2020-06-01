@@ -5,7 +5,7 @@
 - 이진성 [dlwls5201](https://github.com/dlwls5201)
 - 이두한 [koba1mobile](https://github.com/koba1mobile)
 - 신초희 [godjoy](https://github.com/godjoy)
-- 유현선
+- 유현선 [sunny0529](https://github.com/sunny0529)
 - 고승윤 [SeungYooon](https://github.com/SeungYooon)
 - 강다현 [dahyun1226](https://github.com/dahyun1226)
 - 최민정 [miinjung](https://github.com/miinjung)
